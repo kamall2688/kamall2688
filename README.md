@@ -15,5 +15,7 @@
 
 
 # A Bit About Me
+
 • Into anime , One Piece is my favorite 
+
 • I like using AI for all my work (it's easy now ig)
