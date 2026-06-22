@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kamall 👋
 
-<!--
-**kamall2688/kamall2688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recently completed 12th grade
 
-Here are some ideas to get you started:
+💻 Beginner developer exploring the world of coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in AI, technology, and building cool projects
+
+🚀 Learning through projects, experimentation, and a bit of vibe coding
+
+🌱 Currently improving my programming skills and sharing my journey on GitHub
+
+> Still learning, still building, and getting 1% better everyday
